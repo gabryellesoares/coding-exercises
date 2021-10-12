@@ -1,5 +1,8 @@
 """
-There is a list of 26 character heights aligned by index to their letters. For example, 'a' is at index 0 and 'z' is at index 25. There will also be a string. Using the letter heights given, determine the area of the rectangle highlight in mm² assuming all letters are 1mm wide.
+There is a list of 26 character heights aligned by index to their letters. 
+For example, 'a' is at index 0 and 'z' is at index 25. There will also be a string. 
+Using the letter heights given, determine the area of the rectangle highlight in mm² 
+assuming all letters are 1mm wide.
 
 input format:
 first line=25 space-separated integers describing the height of each letter
